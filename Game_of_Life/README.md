@@ -8,11 +8,11 @@ My implementation of Conway's Game of Life written in Lua using the Love2D frame
 
 ### CONTROLS:
 - `space` pause/unpause the game
-- `r` populate the screen with a randomised arangement of cells 
+- `r` populate the screen with a randomised arrangement of cells 
 - `c` clear the screen
 - `esc` quit the application
 
-In addition you can click on screen to change the state of a cell manually. However, this can only be done when the game is paused!
+In addition you can click  with your cursor on screen to change the state of a cell manually. However, this can only be done when the game is paused!
 
 ### TO RUN:
 1. change into the directory that contains the folder: Game_of_Life
