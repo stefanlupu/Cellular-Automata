@@ -1,8 +1,9 @@
 # Conway's Game of Life
 
-My implementation of Conway's Game of Life written in Lua using the Love2D framework.
+My implementation of Conway's Game of Life written in Lua using the Love2D framework. For more information please visit
+[Conway's Game of Life Wiki page](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
-### PLEASE NOTE: 
+### DISCLAIMER: 
 - you must have both Lua and Love2D installed on your system for this program to work
 - Windows and Mac OS have not been tested on but should in theory work
 
