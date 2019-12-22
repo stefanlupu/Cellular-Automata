@@ -1,6 +1,7 @@
 # Langton's Ant
 
-My implementation of Langton's Ant written in Lua using the Love2D framework. For more information please visit https://en.wikipedia.org/wiki/Langton%27s_ant
+My implementation of Langton's Ant written in Lua using the Love2D framework. For more information please visit
+[Langton's Ant Wiki page](https://en.wikipedia.org/wiki/Langton%27s_ant).
 
 ### DISCLAIMER: 
 - you must have both Lua and Love2D installed on your system for this program to work
